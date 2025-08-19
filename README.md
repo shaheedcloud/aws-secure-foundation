@@ -25,13 +25,13 @@ This project provisions a secure AWS foundation using **Terraform**:
 ## Repo structure:
    
 aws-secure-foundation/
-├── main.tf
+'''├── main.tf
 ├── variables.tf
 ├── outputs.tf
 ├── provider.tf
 ├── README.md
 ├── diagrams/
-└── evidence/
+└── evidence/'''
 
 ## Implementation (Step by Step)
 We will document each phase with code, commands, and explanations.  
