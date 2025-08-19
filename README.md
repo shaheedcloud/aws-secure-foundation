@@ -22,16 +22,17 @@ This project provisions a secure AWS foundation using **Terraform**:
 - AWS Account with IAM admin user (not root).  
 - Tools installed: Terraform, AWS CLI v2, Git.  
 
-## Repo structure:
-   
+## Repo Structure
+```text
 aws-secure-foundation/
-'''├── main.tf
+├── main.tf
 ├── variables.tf
 ├── outputs.tf
 ├── provider.tf
 ├── README.md
 ├── diagrams/
-└── evidence/'''
+└── evidence/
+```
 
 ## Implementation (Step by Step)
 We will document each phase with code, commands, and explanations.  
